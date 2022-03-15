@@ -19,3 +19,4 @@ The following **bonus** features are implemented:
 - [ ] Profile pictures are shown for posts and comments. (2pts)
 
 ## Video Walkthrough
+![helloz_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/91585817/158460005-0e79e6c5-5c28-40d9-94ac-f930af6f233e.gif)
